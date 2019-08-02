@@ -1,0 +1,219 @@
+/* COLUMN, ROW AND GENERAL */
+
+.row img{
+	margin-top:-7px;
+}
+
+.col {
+  float: left;
+  width:5%;
+  margin-left:-16.5px;
+}
+
+.plate{
+
+}
+
+.container{
+	width:80%;
+	margin:auto;
+  text-align:center;
+}
+
+.col {
+  float: left;
+  width:5%;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* BORDER TOP */
+
+#Col1case0{
+border-left:4px solid #252525;
+border-top:4px solid  #252525;
+border-top-left-radius:10px;
+
+}
+#Col2case10{
+border-top:4px solid  #252525;
+  
+}
+#Col3case20{
+border-top:4px solid  #252525;
+  
+}
+#Col4case30{
+border-top:4px solid  #252525;
+  
+}
+#Col5case40{
+border-top:4px solid  #252525;
+  
+}
+#Col6case50{
+border-top:4px solid  #252525;
+  
+}
+#Col7case60{
+border-top:4px solid  #252525;
+  
+}
+#Col8case70{
+border-top:4px solid  #252525;
+  
+}
+#Col9case80{
+border-top:4px solid  #252525;
+  
+}
+
+/* BORDER LEFT */
+
+#Col10case90{
+border-right:4px solid #252525;
+border-top:4px solid  #252525;
+border-top-right-radius:10px;
+} 
+
+#Col1case1{
+border-left:4px solid #252525;
+
+}
+
+#Col1case2{
+border-left:4px solid #252525;
+
+}
+
+#Col1case3{
+border-left:4px solid #252525;
+
+}
+
+#Col1case4{
+border-left:4px solid #252525;
+
+}
+
+#Col1case5{
+border-left:4px solid #252525;
+
+}
+
+#Col1case6{
+border-left:4px solid #252525;
+
+}
+
+#Col1case7{
+border-left:4px solid #252525;
+
+}
+
+#Col1case8{
+border-left:4px solid #252525;
+
+}
+
+/* BORDER RIGHT */
+
+#Col1case9{
+border-left:4px solid #252525;
+border-bottom:4px solid #252525;
+border-bottom-left-radius:10px;
+}
+
+#Col10case91{
+border-right:4px solid #252525;
+
+} 
+
+#Col10case92{
+border-right:4px solid #252525;
+
+} 
+
+#Col10case93{
+border-right:4px solid #252525;
+
+} 
+
+#Col10case94{
+border-right:4px solid #252525;
+
+} 
+
+#Col10case95{
+border-right:4px solid #252525;
+
+} 
+
+#Col10case96{
+border-right:4px solid #252525;
+
+} 
+
+#Col10case97{
+border-right:4px solid #252525;
+
+} 
+
+#Col10case98{
+border-right:4px solid #252525;
+
+} 
+
+/* BORDER BOTTOM  */
+
+#Col10case99{
+border-right:4px solid #252525;
+border-bottom:4px solid  #252525;
+border-bottom-right-radius:10px;
+}
+
+#Col9case89{
+border-bottom:4px solid #252525;
+
+}
+
+#Col8case79{
+border-bottom:4px solid #252525;
+
+} 
+
+#Col7case69{
+border-bottom:4px solid #252525;
+
+}
+
+#Col6case59{
+border-bottom:4px solid #252525;
+
+}
+
+#Col5case49{
+border-bottom:4px solid #252525;
+
+}
+
+#Col4case39{
+border-bottom:4px solid #252525;
+
+}
+
+#Col3case29{
+border-bottom:4px solid #252525;
+
+}
+
+#Col2case19{
+border-bottom:4px solid #252525;
+
+}
+
+/* END */
